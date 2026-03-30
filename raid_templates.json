@@ -1,0 +1,38 @@
+{
+  "polutus": {
+    "title": "Polutus Raid",
+    "maps": {
+      "Mapa1": {
+        "buttony_mapa_1": "",
+        "polutus_mapa_1": ""
+      },
+      "Mapa 2": {
+        "buttony_mapa_2": "",
+        "biegniecie_mapa_2": ""
+      }
+    }
+  },
+  "arma v2": {
+    "title": "Arma V2 Raid",
+    "maps": {
+      "Order": {
+        "Slot_1": "",
+        "Slot_2": "",
+        "Slot_3": "",
+        "Slot_4": "",
+        "Slot_5": "",
+        "Slot_6": "",
+        "Slot_7": "",
+        "Slot_8": "",
+        "Slot_9": "",
+        "Slot_10": "",
+        "Slot_11": "",
+        "Slot_12": ""
+      },
+      "Lurs": {
+        "Lur_Team_1": "",
+        "Lur_Team_2": ""
+      }
+    }
+  }
+}

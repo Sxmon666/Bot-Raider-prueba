@@ -1,0 +1,9 @@
+run = "python main.py"
+language = "python"
+modules = ["python-3.11"]
+
+[[ports]]
+localPort = 21590
+externalPort = 80
+
+[nix]
